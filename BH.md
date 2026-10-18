@@ -1,3 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiliciHamza&layout=compact&langs_count=8&theme=tokyonight&hide=html)
-![Stats](https://github-readme-stats.vercel.app/api?username=BiliciHamza&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiliciHamza&layout=compact&size_weight=0.5&count_weight=0.5)![Stats](https://github-readme-stats.vercel.app/api?username=BiliciHamza&show_icons=true&theme=tokyonight)
 
